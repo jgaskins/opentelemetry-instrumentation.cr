@@ -1,4 +1,4 @@
-This license covers the pieces of Jaime Gaskins Redis library that are
+This license covers the pieces of Jamie Gaskins Redis library that are
 substantially duplicated here. Primarily, this is the specs for the
 corresponding instrumentation.
 
@@ -6,7 +6,7 @@ corresponding instrumentation.
 
 The MIT License (MIT)
 
-Copyright (c) 2020 Jaime Gaskins
+Copyright (c) 2020 Jamie Gaskins
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
